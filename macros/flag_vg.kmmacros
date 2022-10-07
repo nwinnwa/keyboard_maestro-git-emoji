@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>686591706.51424301</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByTyping</string>
+						<key>ActionUID</key>
+						<integer>1606</integer>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>TargetingType</key>
+						<string>Front</string>
+						<key>Text</key>
+						<string>🇻🇬</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>686591989.57445395</real>
+				<key>ModificationDate</key>
+				<real>686592343.11561799</real>
+				<key>Name</key>
+				<string>:flag_vg: -&gt; 🇻🇬</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>:flag_vg:</string>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>0E7D5F9B-1ED7-4560-8C47-5D3245B7595D</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>GitLab Emojis</string>
+		<key>ToggleMacroUID</key>
+		<string>75DE963B-AE3D-4690-A9F4-5293183B2CE3</string>
+		<key>UID</key>
+		<string>DB8A5E2C-B2C0-4D5A-845F-5CAC071691D7</string>
+	</dict>
+</array>
+</plist>
